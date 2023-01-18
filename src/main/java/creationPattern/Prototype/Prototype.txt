@@ -1,0 +1,2 @@
+Este padrão é usado para criar cópias de objetos existentes.
+Ele evita a necessidade de usar o construtor para criar novos objetos
