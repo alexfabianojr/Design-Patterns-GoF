@@ -1,0 +1,2 @@
+Este padrão é usado para criar objetos de uma classe sem especificar a classe exata que será criada.
+Ele permite que as subclasses decidam qual classe criar.
