@@ -1,0 +1,3 @@
+Padrão Builder: Este padrão é usado para criar objetos complexos passo a passo.
+Ele separa a construção de um objeto de sua representação,
+permitindo que diferentes construtores criem objetos diferentes.
