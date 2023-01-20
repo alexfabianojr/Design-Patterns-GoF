@@ -1,0 +1,1 @@
+Padrão Composite: Este padrão é usado para compor objetos em estruturas de árvore para representar hierarquias parte-todo.
