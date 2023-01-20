@@ -1,0 +1,2 @@
+Padrão Bridge: Este padrão é usado para separar uma abstração de sua implementação,
+permitindo que ambas possam ser modificadas independentemente.
