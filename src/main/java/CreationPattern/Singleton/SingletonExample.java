@@ -1,4 +1,4 @@
-package creationPattern;
+package CreationPattern.Singleton;
 
 class AppMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package creationPattern.Prototype;
+package CreationPattern.Prototype;
 
 class AppMain {
     public static void main(String[] args) {

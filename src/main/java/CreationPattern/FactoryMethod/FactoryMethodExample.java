@@ -1,4 +1,4 @@
-package creationPattern.FactoryMethod;
+package CreationPattern.FactoryMethod;
 
 class AppMain {
     public static void main(String[] args) {
