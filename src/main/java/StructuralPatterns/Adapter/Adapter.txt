@@ -1,0 +1,2 @@
+Padrão Adapter: Este padrão é usado para adaptar uma interface para outra.
+Ele permite que classes trabalhem juntas que não poderiam devido às suas interfaces incompatíveis.
