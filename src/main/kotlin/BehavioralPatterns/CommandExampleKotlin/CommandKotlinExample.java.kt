@@ -1,4 +1,4 @@
-package BehavioralPatterns
+package BehavioralPatterns.CommandExampleKotlin
 
 // Interface de comando
 interface Command {

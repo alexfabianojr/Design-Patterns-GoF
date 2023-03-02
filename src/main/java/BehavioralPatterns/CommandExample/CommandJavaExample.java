@@ -1,4 +1,4 @@
-package BehavioralPatterns;
+package BehavioralPatterns.CommandExample;
 
 // Interface de comando
 interface Command {
